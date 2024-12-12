@@ -1,0 +1,10 @@
+{
+  "376495556253712384": {
+    "loan_amount": 100,
+    "emi": "101.00",
+    "interest_rate": 12,
+    "duration_months": 1,
+    "repayment_plan": "weekly",
+    "due_date": "2024-10-28T16:00:21.683Z"
+  }
+}
